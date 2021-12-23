@@ -1,2 +1,1 @@
-# lastprojectmbkm
-bismillah capestone project
+# Smart Trash
