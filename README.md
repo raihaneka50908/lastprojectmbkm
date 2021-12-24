@@ -1,6 +1,8 @@
 # Smart Trash
 ## Penulis : Muhammad Raihan Ekaputra Idrisatria & Devaldi Caliesta Octadiani
 
+[Project Brief](https://github.com/raihaneka50908/lastprojectmbkm/blob/main/Project%20Brief.pdf)
+
 Untuk produk dalam bentuk perangkat keras masih dalam tahap pengembangan, namun kami lampirkan alat serta instruksi pengkabelan dari produk yang kami buat.
 
 ### Alat Yang Digunakan
